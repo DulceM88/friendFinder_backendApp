@@ -1,0 +1,23 @@
+{
+  "name": "netflixandgrub",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": ""
+  },
+  "author": "Dulce Medina",
+  "license": "ISC",
+  "description": "app to help you find firneds to grub with",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DulceM88/friendFinder_backendApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DulceM88/friendFinder_backendApp/issues"
+  },
+  "homepage": "https://github.com/DulceM88/friendFinder_backendApp#readme"
+}
